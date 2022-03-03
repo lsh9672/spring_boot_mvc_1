@@ -7,3 +7,5 @@
 ### 섹션3. https://www.notion.so/MVC-1-3-68f40fd6d4074c139832212fd9fb1597
 ### 섹션4. https://www.notion.so/MVC-1-4-81a76f5a891b4bc9a0fd6e37e4296c86
 ### 섹션5. https://www.notion.so/MVC-1-5-0d7c4cbb54cf4960afe6c0c69667492e
+### 섹션6. https://www.notion.so/MVC-1-6-0767cce65b5443488d73a8d6df0f6315
+### 섹션7. 1~6내용을 이용한 애플리케이션 실습이라 생략
